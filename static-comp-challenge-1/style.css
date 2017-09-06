@@ -13,7 +13,9 @@ main {
 }
 
 h1 {
-  margin-bottom: 15px;
+  font-size: 30px;
+  line-height: 1.1em;
+  margin-bottom: 10px;
 }
 
 .follow-button, .hire-button {
